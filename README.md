@@ -1,2 +1,2 @@
-# bootcamp_veri_analizi
+# Bootcamp - Veri Analizi
 Denizbank işbirliğiyle Veri Analizi Bootcamp; Python, SQL, Veri Görselleştirme
